@@ -5,11 +5,11 @@ A tictactoe program written in JavaScript
 
 Instructions:
 
-Open tictactoe.html to run the game
+- Open tictactoe.html to run the game
 
-Player 1 goes first - X
-Player 2 goes second - O
+  Player 1 goes first - X
+  Player 2 goes second - O
 
-Click Play Again to restart the game
+- Click Play Again to restart the game
 
-The score is displayed on the screen
+- The score is displayed on the screen
